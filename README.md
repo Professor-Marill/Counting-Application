@@ -3,7 +3,8 @@ This is a counting application that when clicked into waits for keystrokes on a 
 
 HOW TO USE:
   Create a text file or text files within the same directory/file as the application itself. Make sure that text files has an integer in its first line.
-  Open the Application and select the files or files you would like to use from the dropdown menus. Then select the number you would like to add or           subtract to the files from the other dropdown. After this you can push the run button. It should pop up two numbers on the bottom screen. The current       hotkeys include the numpad 1, 2, 3, and 4. 1 will increase the number of the first one by the increment number. 2 will decrease the first one by by the     increment number. 3 will increase the second by the increment number, and 4 will decrease the number of the second by the incremental value.
+  Open the Application and select the files or files you would like to use from the dropdown menus. Then select the number you would like to add or           subtract to the files from the other dropdown. After this you can push the run button. It should pop up two numbers on the bottom screen. The current       hotkeys include the numpad 1, 2, 3, and 4. 1 will increase the number of the first one by the increment number. 2 will decrease the first one by by the     increment number. 3 will increase the second by the increment number, and 4 will decrease the number of the second by the incremental value. You MUST also be clicked into the window in order for the application to work.
   
  OTHER INFORMATION:
   Also included in this distribution is the original python code so that if you want to you can modify it in any way you like for your own personal useage.
+  The python code relies on the tkinter module, the os module and the keyboard module.
